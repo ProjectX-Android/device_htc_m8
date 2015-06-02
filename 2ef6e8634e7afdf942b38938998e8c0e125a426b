@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_4ff89549",
+        "filename": "px.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-06-02T20:02:46Z",
+      "side": 1,
+      "message": "export",
+      "revId": "2ef6e8634e7afdf942b38938998e8c0e125a426b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
