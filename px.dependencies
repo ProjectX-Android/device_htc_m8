@@ -18,5 +18,10 @@
     "repository": "proprietary_vendor_htc",
     "target_path": "vendor/htc",
     "revision": "cm-12.1"
+  },
+  {
+   "repository": "packages_apps_PXUpdater",
+   "target_path": "packages/apps/PXUpdater",
+   "revision": "lollipop-5.1_m8"
   }
 ]
